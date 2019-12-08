@@ -1,0 +1,59 @@
+# Title: easylist-latvian Custom Hosts Build
+# Builds Maintainer: Nayem Ador - nayemador.com
+# Converted From - https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
+# Last Converted - 08.12.2019
+# Total Domains - 50
+# Energized Protection - ad.porn.malware blocking.
+# https://energized.pro
+# License: MIT; https://energized.pro/license
+
+0.0.0.0 1188.lv
+0.0.0.0 a.draugiem.lv
+0.0.0.0 ad.one.lv
+0.0.0.0 adbox.lv
+0.0.0.0 adhands.ru
+0.0.0.0 ads.image.lv
+0.0.0.0 adsplius.lt
+0.0.0.0 agk.lv
+0.0.0.0 anymedia.lv
+0.0.0.0 ao.skaties.lv
+0.0.0.0 auto24.lv
+0.0.0.0 b.itvnet.lv
+0.0.0.0 banneri.lv
+0.0.0.0 banners.zl.lv
+0.0.0.0 bbes.lv
+0.0.0.0 clo.lv
+0.0.0.0 deal24.lv
+0.0.0.0 doaffiliate.net
+0.0.0.0 ecompics.power.oho.lv
+0.0.0.0 evolution.lv
+0.0.0.0 freewheel-mtgx-tv.akamaized.net
+0.0.0.0 garmtech.lv
+0.0.0.0 getgamers.ru
+0.0.0.0 goaff.com
+0.0.0.0 h.itvnet.lv
+0.0.0.0 imd.petit.lv
+0.0.0.0 img.petit.lv
+0.0.0.0 knc.lv
+0.0.0.0 maxtraffic.com
+0.0.0.0 media.city24.lv
+0.0.0.0 nagi.ee
+0.0.0.0 nerealitate.lv
+0.0.0.0 next.lv
+0.0.0.0 olybet.lv
+0.0.0.0 optibet.lv
+0.0.0.0 otrapuse.lv
+0.0.0.0 partneriem.smscredit.lv
+0.0.0.0 pay4results.ee
+0.0.0.0 perkamkopa.lv
+0.0.0.0 promo.boomtime.lv
+0.0.0.0 q.tvnet.lv
+0.0.0.0 r.inbox.lv
+0.0.0.0 rembi.lv
+0.0.0.0 saites.eon.lv
+0.0.0.0 sludini.lv
+0.0.0.0 smartad.lv
+0.0.0.0 styleweb.lv
+0.0.0.0 sure.lv
+0.0.0.0 videoavatars.com
+0.0.0.0 w.ifrype.com
